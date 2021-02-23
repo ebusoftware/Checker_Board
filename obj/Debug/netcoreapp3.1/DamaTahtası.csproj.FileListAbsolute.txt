@@ -1,0 +1,15 @@
+D:\C#_Works\DamaTahtası\DamaTahtası\bin\Debug\netcoreapp3.1\DamaTahtası.exe
+D:\C#_Works\DamaTahtası\DamaTahtası\bin\Debug\netcoreapp3.1\DamaTahtası.deps.json
+D:\C#_Works\DamaTahtası\DamaTahtası\bin\Debug\netcoreapp3.1\DamaTahtası.runtimeconfig.json
+D:\C#_Works\DamaTahtası\DamaTahtası\bin\Debug\netcoreapp3.1\DamaTahtası.runtimeconfig.dev.json
+D:\C#_Works\DamaTahtası\DamaTahtası\bin\Debug\netcoreapp3.1\DamaTahtası.dll
+D:\C#_Works\DamaTahtası\DamaTahtası\bin\Debug\netcoreapp3.1\DamaTahtası.pdb
+D:\C#_Works\DamaTahtası\DamaTahtası\obj\Debug\netcoreapp3.1\DamaTahtası.csprojAssemblyReference.cache
+D:\C#_Works\DamaTahtası\DamaTahtası\obj\Debug\netcoreapp3.1\DamaTahtası.Form1.resources
+D:\C#_Works\DamaTahtası\DamaTahtası\obj\Debug\netcoreapp3.1\DamaTahtası.csproj.GenerateResource.cache
+D:\C#_Works\DamaTahtası\DamaTahtası\obj\Debug\netcoreapp3.1\DamaTahtası.AssemblyInfoInputs.cache
+D:\C#_Works\DamaTahtası\DamaTahtası\obj\Debug\netcoreapp3.1\DamaTahtası.AssemblyInfo.cs
+D:\C#_Works\DamaTahtası\DamaTahtası\obj\Debug\netcoreapp3.1\DamaTahtası.csproj.CoreCompileInputs.cache
+D:\C#_Works\DamaTahtası\DamaTahtası\obj\Debug\netcoreapp3.1\DamaTahtası.dll
+D:\C#_Works\DamaTahtası\DamaTahtası\obj\Debug\netcoreapp3.1\DamaTahtası.pdb
+D:\C#_Works\DamaTahtası\DamaTahtası\obj\Debug\netcoreapp3.1\DamaTahtası.genruntimeconfig.cache
